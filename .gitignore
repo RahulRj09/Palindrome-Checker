@@ -7,6 +7,6 @@ out/*
 .idea/*
 .settings/
 *.class
-RahulPalindromeChecker.iml
+RahulPalindrome.iml
 gradle/
 gradlew.bat
